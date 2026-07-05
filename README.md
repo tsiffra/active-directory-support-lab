@@ -1,2 +1,1 @@
-# ADLAB
-Windows Server Active Directory Lab for support and access management. 
+# Active Directory Support Lab
