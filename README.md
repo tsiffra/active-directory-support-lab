@@ -1,5 +1,4 @@
 # Active Directory Support Lab
-# Active Directory Support Lab
 
 ## Overview
 Built a Windows Server Active Directory lab using VirtualBox on an Intel Mac to practice IT support, help desk, product support, and identity/access management workflows.
