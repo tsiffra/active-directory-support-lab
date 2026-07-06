@@ -1,0 +1,4 @@
+﻿FirstName,LastName,Username,Department,Title,OU,Groups
+Taylor,Reed,treed,Product Support,Product Support Specialist,Product Support,"GG-Product-Support;GG-Remote-Users;GG-Zendesk-Users"
+Marcus,Lee,mlee,Client Success,Client Success Associate,Client Success,"GG-Client-Success;GG-Zendesk-Users"
+Dana,Wright,dwright,Implementation,Implementation Specialist,Implementation,"GG-Implementation;GG-Remote-Users;GG-Zendesk-Users"
