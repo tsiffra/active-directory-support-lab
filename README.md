@@ -96,3 +96,15 @@ group_membership_audit.csv
 privileged_support_access_review.csv
 bulk_onboarding_users.csv
 helpdesk_delegation_group.csv
+## Screenshots
+
+| Screenshot | What it proves |
+|---|---|
+| `01-domain-and-server-proof.png` | Confirms the server hostname as DC01 and the Active Directory domain as taddley.local. |
+| `05-product-support-users.png` | Shows Product Support users created in Active Directory Users and Computers. |
+| `06-security-groups.png` | Shows security groups created for support, remote access, Zendesk, SQL read-only, and help desk workflows. |
+| `09-product-support-access-check.png` | Shows account and access verification for a Product Support user. |
+| `10-offboarding-proof.png` | Shows an offboarded user moved into the Disabled Users OU. |
+| `11-bulk-onboarding-proof.png` | Shows bulk onboarding proof for new users. |
+| `13-password-policy-review.png` | Shows domain password/account policy review. |
+| `14-evidence-exports.png` | Shows generated CSV evidence exports from the lab. |
